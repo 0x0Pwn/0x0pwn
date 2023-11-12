@@ -11,6 +11,6 @@ Vulnerable Machine & Content Development • Offensive Security • Hobby ⚑ Co
 </a>
 
 <a href="https://github.com/0x0pwn/0x0pwn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0pwn&hide_progress=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x0pwn&size_weight=0.5&count_weight=0.5" />
 </a>
 
